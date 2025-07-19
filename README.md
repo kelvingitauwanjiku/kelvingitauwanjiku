@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/kelvingitauwanjiku/kelvingitauwanjiku/assets/your-image-id/your-banner.png" alt="Kelvin Gitau Banner" />
+  <img src="https://github.com/kelvingitauwanjiku/kelvingitauwanjiku/assets/nairobi-codelab-banner.png alt="Kelvin Gitau Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kelvin Gitau</h1>
@@ -71,5 +71,5 @@ I turn coffee ☕ into scalable web apps 🚀.
 
 ---
 
-> Made with ❤️ from Nairobi 🇰🇪 | Let’s build the future, one line of code at a time.
+> Nairobi 🇰🇪 | Let’s build the future, one line of code at a time.
 
