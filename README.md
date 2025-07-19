@@ -1,90 +1,75 @@
-<h1 align="center">Hi there 👋, I'm Kelvin Gitau</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/kelvingitauwanjiku/kelvingitauwanjiku/assets/your-image-id/your-banner.png" alt="Kelvin Gitau Banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Kelvin Gitau</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fullstack%20Developer-Laravel%20%7C%20Vue%20%7C%20Flutter-orange?style=flat-square&logo=laravel" alt="Badge" />
-  <img src="https://img.shields.io/badge/Nairobi%20CodeLab-YouTube-blue?style=flat-square&logo=youtube" />
-  <img src="https://img.shields.io/twitter/follow/Kelvin_gitau_?style=social" />
+  🚀 Full-Stack Developer | Laravel & VueJS Specialist | SEO Pro | Tech Content Creator <br/>
+  💼 Founder of <a href="https://github.com/NairobiCodeLab">Nairobi CodeLab</a> | 📍 Based in Nairobi, Kenya
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-🌍 **Based in Nairobi, Kenya**  
-💼 **Full-Stack Developer with 7+ Years of Experience**  
-🛠️ **I build scalable apps using** Laravel, Vue.js, PHP, Flutter, Node.js  
-🚀 **Founder of** [Nairobi CodeLab](https://www.youtube.com/@NairobiCodeLab) – Tech Tutorials, Dev Stories, and Innovation  
-📸 **Follow my tech updates:** [Twitter / X](https://x.com/Kelvin_gitau_) | [GitHub](https://github.com/kelvingitauwanjiku)
-
----
-
-## 🚧 Currently Working On
-
-- 🛒 **PrimeCart** — Full eCommerce Platform built with Laravel & Vue 3  
-- 🏡 **HabiNest** — Real Estate & Rental Management System  
-- 🌍 **TravelMate AI** — Travel Planning Assistant using FastAPI + Next.js  
-- 📦 **AppPlaza** — Marketplace for Buying & Selling Software  
-- ✍️ **Nairobi CodeLab Blog** — Covering Tech News, Dev Tools, and Trends  
-
----
-
-## 📚 Currently Learning
-
-- 🌐 TypeScript & Tailwind CSS Advanced Patterns  
-- 🔐 Advanced Laravel Authorization with Sanctum  
-- 🧠 AI Integration with FastAPI & Langchain  
-- 🎨 Better UI/UX design with Figma & motion animation  
-
----
-
-## 🤝 Collaboration & Help
-
-👯 I’m looking to collaborate on:  
-- AI-powered apps  
-- Open-source Laravel packages  
-- Frontend animation-rich websites  
-- Vue 3 + Laravel based SaaS apps
-
-🤔 I’m looking for help with:  
-- Building community for Nairobi CodeLab  
-- Growing YouTube subscribers & engagement  
-- Performance tuning large Laravel apps  
-
----
-
-## 💬 Ask Me About
-
-- Laravel + Vue fullstack architecture  
-- API development & SPA deployment  
-- Building tech brands, blogs, or SaaS  
-- Flutter mobile apps or PWA conversions  
-- Tech YouTube content creation  
-
----
-
-## 📫 Reach Me
-
-📧 Email: `gitaukelvin57@gmail.com`  
-🐦 Twitter: [@Kelvin_gitau_](https://x.com/Kelvin_gitau_)  
-🔗 LinkedIn: [Kelvin Gitau](https://www.linkedin.com/in/kelvin-gitau-9639431b2)  
-🌐 GitHub: [kelvingitauwanjiku](https://github.com/kelvingitauwanjiku)
-
----
-
-## ⚡ Fun Fact
-
-I designed the **Nairobi CodeLab** brand to represent innovation, futuristic coding, and community growth in Africa 🌍💡.
-
----
-
-## 🖼 Featured Project Preview
-
-![PrimeCart Preview](https://github.com/kelvingitauwanjiku/kelvingitauwanjiku/assets/kelvingitauwanjiku/primecart-banner.png)
-
----
+### 🧰 Technologies I Work With
 
 <p align="center">
-  <img src="https://github.com/kelvingitauwanjiku/kelvingitauwanjiku/assets/kelvingitauwanjiku/footer-ncl-logo.png" width="200" />
-  <br/>
-  <strong>CODE • INNOVATE • EXPLORE</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="50" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="VueJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
 </p>
+
+---
+
+### 🔭 I’m Currently Working On:
+- 🛒 **PrimeCart** – a modern e-commerce platform
+- 🏠 **HabiNest** – real estate rental & property management system
+- 🧠 **TravelMate AI** – smart AI-powered travel assistant (Next.js + FastAPI)
+- 💻 **AppPlaza** – digital software marketplace
+- 📖 **Nairobi CodeLab Blog** – tech blog with tutorials and news
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:gitaukelvin57@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/Kelvin_gitau_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@NairobiCodeLab"><img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://github.com/kelvingitauwanjiku"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvingitauwanjiku&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvingitauwanjiku&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+### ⚡ Fun Fact:
+I turn coffee ☕ into scalable web apps 🚀.
+
+---
+
+### 📌 Pinned Projects
+
+- [🔗 PrimeCart E-Commerce](https://github.com/kelvingitauwanjiku/primecart)
+- [🏡 HabiNest Rentals](https://github.com/kelvingitauwanjiku/habinest)
+- [📦 AppPlaza Software Marketplace](https://github.com/kelvingitauwanjiku/appplaza)
+- [🧭 TravelMate AI](https://github.com/kelvingitauwanjiku/travelmate-ai)
+
+---
+
+> Made with ❤️ from Nairobi 🇰🇪 | Let’s build the future, one line of code at a time.
+
