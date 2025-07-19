@@ -1,75 +1,90 @@
-# 👋 Hi, I'm Kelvin Gitau
+<h1 align="center">Hi there 👋, I'm Kelvin Gitau</h1>
 
-I'm a passionate and experienced **Full-Stack Developer** from Nairobi, Kenya 🇰🇪  
-I specialize in building scalable web and mobile applications using modern technologies.
-
----
-
-## 🔭 I’m currently working on:
-- 🚗 **PrimeCart** – An advanced Laravel + Vue.js eCommerce platform with modern UI and backend control.
-
-## 🌱 I’m currently learning:
-- **Advanced DevOps** (Docker, CI/CD, Kubernetes)
-- **AI Integrations** with Python & FastAPI
-
-## 👯 I’m looking to collaborate on:
-- Innovative web apps, mobile apps, and SaaS platforms
-- Open-source Laravel or Vue 3 projects
-
-## 🤔 I’m looking for help with:
-- Setting up robust CI/CD pipelines for my monorepos
-- Improving SEO and performance on large-scale Vue.js apps
-
-## 💬 Ask me about:
-- Laravel 12, Vue 3, Tailwind CSS
-- Full-stack development
-- Building and scaling startup platforms
-- API integrations and secure auth systems
-
-## 📫 How to reach me:
-- Email: [gitaukelvin57@gmail.com](mailto:gitaukelvin57@gmail.com)
-- Twitter/X: [@Kelvin_gitau_](https://x.com/Kelvin_gitau_)
-- LinkedIn: [linkedin.com/in/kevokyforce](https://linkedin.com/in/kevokyforce)
-- YouTube: [NairobiCodeLab](https://www.youtube.com/@NairobiCodeLab)
-
-## 😄 Pronouns:
-He/Him
-
-## ⚡ Fun fact:
-I can build fullstack apps faster than I cook a meal 🍝🔥  
-Also, I run a YouTube channel where I simplify tech for developers in Kenya and beyond!
+<p align="center">
+  <img src="https://img.shields.io/badge/Fullstack%20Developer-Laravel%20%7C%20Vue%20%7C%20Flutter-orange?style=flat-square&logo=laravel" alt="Badge" />
+  <img src="https://img.shields.io/badge/Nairobi%20CodeLab-YouTube-blue?style=flat-square&logo=youtube" />
+  <img src="https://img.shields.io/twitter/follow/Kelvin_gitau_?style=social" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+🌍 **Based in Nairobi, Kenya**  
+💼 **Full-Stack Developer with 7+ Years of Experience**  
+🛠️ **I build scalable apps using** Laravel, Vue.js, PHP, Flutter, Node.js  
+🚀 **Founder of** [Nairobi CodeLab](https://www.youtube.com/@NairobiCodeLab) – Tech Tutorials, Dev Stories, and Innovation  
+📸 **Follow my tech updates:** [Twitter / X](https://x.com/Kelvin_gitau_) | [GitHub](https://github.com/kelvingitauwanjiku)
 
 ---
 
-## 📈 GitHub Stats
+## 🚧 Currently Working On
 
-![Kelvin Gitau's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvingitauwanjiku&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvingitauwanjiku&layout=compact&theme=radical)
-
----
-
-### 🌐 Let’s Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kevokyforce)  
-[![Twitter](https://img.shields.io/badge/Twitter-@Kelvin_gitau_-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/Kelvin_gitau_)  
-[![YouTube](https://img.shields.io/badge/YouTube-NairobiCodeLab-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@NairobiCodeLab)  
-[![Gmail](https://img.shields.io/badge/Email-gitaukelvin57@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gitaukelvin57@gmail.com)
+- 🛒 **PrimeCart** — Full eCommerce Platform built with Laravel & Vue 3  
+- 🏡 **HabiNest** — Real Estate & Rental Management System  
+- 🌍 **TravelMate AI** — Travel Planning Assistant using FastAPI + Next.js  
+- 📦 **AppPlaza** — Marketplace for Buying & Selling Software  
+- ✍️ **Nairobi CodeLab Blog** — Covering Tech News, Dev Tools, and Trends  
 
 ---
 
-> 💻 “Code is my canvas, creativity is my compiler.”
+## 📚 Currently Learning
 
+- 🌐 TypeScript & Tailwind CSS Advanced Patterns  
+- 🔐 Advanced Laravel Authorization with Sanctum  
+- 🧠 AI Integration with FastAPI & Langchain  
+- 🎨 Better UI/UX design with Figma & motion animation  
+
+---
+
+## 🤝 Collaboration & Help
+
+👯 I’m looking to collaborate on:  
+- AI-powered apps  
+- Open-source Laravel packages  
+- Frontend animation-rich websites  
+- Vue 3 + Laravel based SaaS apps
+
+🤔 I’m looking for help with:  
+- Building community for Nairobi CodeLab  
+- Growing YouTube subscribers & engagement  
+- Performance tuning large Laravel apps  
+
+---
+
+## 💬 Ask Me About
+
+- Laravel + Vue fullstack architecture  
+- API development & SPA deployment  
+- Building tech brands, blogs, or SaaS  
+- Flutter mobile apps or PWA conversions  
+- Tech YouTube content creation  
+
+---
+
+## 📫 Reach Me
+
+📧 Email: `gitaukelvin57@gmail.com`  
+🐦 Twitter: [@Kelvin_gitau_](https://x.com/Kelvin_gitau_)  
+🔗 LinkedIn: [Kelvin Gitau](https://www.linkedin.com/in/kelvin-gitau-9639431b2)  
+🌐 GitHub: [kelvingitauwanjiku](https://github.com/kelvingitauwanjiku)
+
+---
+
+## ⚡ Fun Fact
+
+I designed the **Nairobi CodeLab** brand to represent innovation, futuristic coding, and community growth in Africa 🌍💡.
+
+---
+
+## 🖼 Featured Project Preview
+
+![PrimeCart Preview](https://github.com/kelvingitauwanjiku/kelvingitauwanjiku/assets/kelvingitauwanjiku/primecart-banner.png)
+
+---
+
+<p align="center">
+  <img src="https://github.com/kelvingitauwanjiku/kelvingitauwanjiku/assets/kelvingitauwanjiku/footer-ncl-logo.png" width="200" />
+  <br/>
+  <strong>CODE • INNOVATE • EXPLORE</strong>
+</p>
