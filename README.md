@@ -47,6 +47,7 @@
 
 | 💡 Project | 🚀 Description |
 |-----------|----------------|
+| [**FahariPos**](https://github.com/kelvingitauwanjiku/FahariPos) | All-in-one Inventory & POS system for African businesses |
 | [**PrimeCart**](https://github.com/kelvingitauwanjiku/primecart) | Full-featured e-commerce platform with real-time analytics |
 | [**HabiNest**](https://github.com/kelvingitauwanjiku/habinest) | Smart real estate & rental property management system |
 | [**TravelMate AI**](https://github.com/kelvingitauwanjiku/travelmate-ai) | AI-powered travel assistant (Next.js + FastAPI) |
